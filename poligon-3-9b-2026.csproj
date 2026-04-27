@@ -49,6 +49,7 @@
     <Compile Include="Ravan.cs" />
     <Compile Include="Tacka.cs" />
     <Compile Include="Vektor.cs" />
+    <Compile Include="zadci.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
